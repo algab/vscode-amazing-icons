@@ -44,8 +44,6 @@
 		"_fd_src-open": { "iconPath": "./icons/folders/src-open.svg" },
 		"_fd_layout": { "iconPath": "./icons/folders/layout.svg" },
 		"_fd_layout-open": { "iconPath": "./icons/folders/layout-open.svg" },
-		"_fd_services": { "iconPath": "./icons/folders/services.svg" },
-		"_fd_services-open": { "iconPath": "./icons/folders/services-open.svg" },
 		"_f_jest": { "iconPath": "./icons/jest.svg" },
 		"_f_actionscript": { "iconPath": "./icons/actionscript.png" },
 		"_f_android": { "iconPath": "./icons/android.svg" },
@@ -344,10 +342,6 @@
 		"layouts": "_fd_layout",
 		"_layout": "_fd_layout",
 		"_layouts": "_fd_layout",
-		"service": "_fd_services",
-		"services": "_fd_services",
-		"_service": "_fd_services",
-		"_services": "_fd_services",
 		"src": "_fd_src",
 		"source": "_fd_src",
 		"sources": "_fd_src"
@@ -409,11 +403,7 @@
 		"_layouts": "_fd_layout-open",
 		"src": "_fd_src-open",
 		"source": "_fd_src-open",
-		"sources": "_fd_src-open",
-		"service": "_fd_services-open",
-		"services": "_fd_services-open",
-		"_service": "_fd_services-open",
-		"_services": "_fd_services-open"
+		"sources": "_fd_src-open"
 	},
 	"fileExtensions": {
 		"ai": "_f_illustrator",
